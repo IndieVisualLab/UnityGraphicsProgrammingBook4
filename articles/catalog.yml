@@ -1,0 +1,16 @@
+PREDEF:
+  - Preface.re
+
+CHAPS:
+  - nakamura.re
+  - fuqunaga.re
+  - oishi.re
+  - xjine.re
+  - kaiware007.re
+  - sakota.re
+  - aoyama.re
+
+APPENDIX:
+
+POSTDEF:
+  - contributors.re
